@@ -1,0 +1,59 @@
+ul {
+    height: 4.5rem;
+    background-color: white;
+    overflow: scroll;
+    overflow-x: hidden;
+    list-style: none;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align:justify;
+    padding-left: 0rem;
+}
+
+ul a{
+    font-size: 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+form {
+    margin-top: 6rem;
+}
+
+body h1,form{
+    text-align: center;
+}
+
+body {
+    background-color: rgb(43, 41, 41);
+    text-align: right;
+}
+
+h1 {
+    color: white;
+}
+
+#trash-icon {   
+    color: rgb(255, 0, 0);
+    height: 1rem;
+}
+
+#trash-icon:hover {
+    background-color: rgb(249, 50, 50);
+    color: rgb(255, 255, 255);
+}
+
+#check-icon {
+    color: green;
+    height: 1rem;
+    padding-left: 0rem;
+}
+
+#check-icon:hover {
+    background-color: green;
+    color: white;
+}
+
+.link {
+    color: white
+}
